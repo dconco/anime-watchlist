@@ -65,7 +65,8 @@
 63.   The Water Magician (SE1) — waiting SE2
 64.   I Was Reincarnated as the 7th Prince (SE1-2) — waiting SE3
 65.   Am I Actually the Strongest? (SE1) — waiting SE2
-66.
+66.   Arifureta: From Commonplace to World's Strongest (SE1-3) — waiting SE4
+
 
 ——— TO WATCH ———
 
@@ -87,4 +88,6 @@
 16.   Infinite Castle — To watch
 17.   Trapped in a Dating Sim
 18.   Saga of Tanya the Evil
-19.   Arifureta: From Commonplace to World's Strongest (SE1-3) — Still watching
+19.   Skeleton knight in another world
+20.   Chillin in another world
+21.   How a realistic heroes rebuilt the kingdom
