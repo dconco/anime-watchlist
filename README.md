@@ -89,5 +89,7 @@
 17.   Trapped in a Dating Sim
 18.   Saga of Tanya the Evil
 19.   Skeleton knight in another world
-20.   Chillin in another world
+20.   Chillin in another world — Still watching
 21.   How a realistic heroes rebuilt the kingdom
+22.   Black Grade
+23.   That Time I Got Reincarnated as a Slime OAD
