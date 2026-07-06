@@ -66,6 +66,12 @@
 64.   I Was Reincarnated as the 7th Prince (SE1-2) — waiting SE3
 65.   Am I Actually the Strongest? (SE1) — waiting SE2
 66.   Arifureta: From Commonplace to World's Strongest (SE1-3) — waiting SE4
+67.   The Reincarnation of the Strongest Exorcist in Another World (SE1) — waiting SE2
+68.   That Time I Got Reincarnated as a Slime OAD (EP1-5)
+69.   Skeleton knight in another world (SE1) — waiting SE2
+70.   Chillin in another world (SE1) — waiting SE2
+71.   Dandadan (SE2-EP12) — waiting SE2-EP24
+
 
 
 ——— TO WATCH ———
@@ -79,7 +85,7 @@
 7. My Hero Academia
 8. The misfit of the demon king Academy
 9. The Daily Life of the Immortal King
-10.   Dandadan
+10.   How a realistic heroes rebuilt the kingdom
 11.   Fate/stay night: Unlimited Blade
 12.   The Legendaries — Still watching
 13.   The New Gate
@@ -88,8 +94,4 @@
 16.   Infinite Castle — To watch
 17.   Trapped in a Dating Sim
 18.   Saga of Tanya the Evil
-19.   Skeleton knight in another world
-20.   Chillin in another world — Still watching
-21.   How a realistic heroes rebuilt the kingdom
-22.   Black Grade
-23.   That Time I Got Reincarnated as a Slime OAD
+19.   Black Grade
