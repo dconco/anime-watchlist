@@ -83,6 +83,9 @@
 81.   Solo Leveling – waiting SE3
 82.   One Piece – still watching
 83.   The case study of Vanitas – still watching
+84.   Re-Zero – still watching
+85.   Invincible Fight Girl – still watching
+86.   The Rising of the Shield Hero – waiting SE4
 
 
 
