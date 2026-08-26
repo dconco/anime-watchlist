@@ -19,7 +19,7 @@
 17.   Wreck-it Ralph
 18.   Princess Mononoke
 19.   Jade Armor (SE1-2)
-20.   Winx Club: The Magic is Back (SE1) — waiting SE2
+20.   Winx Club: The Magic is Back (SE2) — waiting SE3
 21.   Supernatural Academy (SE1)
 22.   Tinker Bell
 23.   Tinker Bell and the pirate
@@ -71,6 +71,18 @@
 69.   Skeleton knight in another world (SE1) — waiting SE2
 70.   Chillin in another world (SE1) — waiting SE2
 71.   Dandadan (SE2-EP12) — waiting SE2-EP24
+72.   Spy x Family – still watching
+73.   Shangri-La Frontier – still watching 
+74.   Record of Ragnarok – still watching 
+75.   DOTA: Dragon Blood – still watching
+76.   Demon Slayer SE1-5 – waiting SE6
+77.   Mushoku Tensei: Jobless Reincarnation – waiting SE3
+78.   The Ribbon Hero
+79.   Gintama – still watching
+80.   NIMONA – still watching
+81.   Solo Leveling – waiting SE3
+82.   One Piece – still watching
+83.   The case study of Vanitas – still watching
 
 
 
@@ -91,7 +103,6 @@
 13.   The New Gate
 14.   Death Note — To watch
 15.   The Sime Diaries (SE1) — Still watching
-16.   Infinite Castle — To watch
+16.   Black Grade
 17.   Trapped in a Dating Sim
 18.   Saga of Tanya the Evil
-19.   Black Grade
