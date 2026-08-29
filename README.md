@@ -86,8 +86,8 @@
 84.   Re-Zero – still watching
 85.   Invincible Fight Girl – still watching
 86.   The Rising of the Shield Hero – waiting SE4
-87.   Banished from the Hero's Party
-
+87.   Banished from the Hero's Party – SE1-2
+88.   Claymore - EP1-26
 
 
 
