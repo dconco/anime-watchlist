@@ -79,7 +79,7 @@
 77.   Mushoku Tensei: Jobless Reincarnation – waiting SE3
 78.   The Ribbon Hero
 79.   Gintama – still watching
-80.   NIMONA – still watching
+80.   NIMONA
 81.   Solo Leveling – waiting SE3
 82.   One Piece – still watching
 83.   The case study of Vanitas – still watching
