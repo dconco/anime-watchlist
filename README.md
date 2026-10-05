@@ -1,7 +1,7 @@
 # My Favorite anime
 
 1.   Eminence in Shadow (SE1-2) — waiting SE3
-2.   Demon Slayer SE1-5 – waiting SE6
+2.   Demon Slayer SE1-4 – waiting SE5
 3.   She-ra and the Princesses of Power (SE 5)
 4.   Claymore - EP1-26
 5.   Devil May Cry (SE1-2)
