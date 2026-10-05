@@ -1,93 +1,96 @@
+# My Favorite anime
+
+1.   Eminence in Shadow (SE1-2) — waiting SE3
+2.   Demon Slayer SE1-5 – waiting SE6
+3.   She-ra and the Princesses of Power (SE 5)
+4.   Claymore - EP1-26
+5.   Devil May Cry (SE1-2)
+6.   Kitti Katz (SE1) — waiting SE2
+7.   Sakamoto Days (SE1) — waiting SE2
+8.   Black Clover (EP1-170) — waiting S2
+9.   Solo Leveling – waiting SE3
+10.   Mysticons (SE1-2)
+11.   Winx Club: The Magic is Back (SE2) — waiting SE3
+12.   Jade Armor (SE1-2)
+13.   Supernatural Academy (SE1)
+14.   Puss in Boots (SE1-6)
+15.   LoliRock (SE1-2) — waiting SE3
+16.   The Dragon Prince (SE1-7)
+17.   Elena of Avalor (SE1-3)
+18.   Arifureta: From Commonplace to World's Strongest (SE1-3) — waiting SE4
+19.   NIMONA
+20.   Overload (SE1-4) — waiting SE5
+21.   The Rising of the Shield Hero – waiting SE4
+22.   Banished from the Hero's Party – SE1-2
+
 # Watched Anime/Animation/Cartoon
 
-1. She-ra and the Princesses of Power (SE 5)
-2. LoliRock (SE1-2) — waiting SE3
-3. Cleopatra in space (SE1-3) — waiting SE4
-4. Avatar The Last Airbender (SE1-3)
-5. The Legend of Korra (SE1-4)
-6. The Dragon Prince (SE1-7)
-7. The Dragon King (Arc 3) — Coming soon
-8. Mysticons (SE1-2)
-9. Teen Titans (SE1-6)
-10.   Devil May Cry (SE1-2)
-11.   Frozen (1 & 2) waiting 3
-12.   Miraculous Tales of Ladybug and Cat Noire (SE1-6)
-13.   Winx Club (SE1-8)
-14.   Elena of Avalor (SE1-3)
-15.   Wish
-16.   Puss in Boots (SE1-6)
-17.   Wreck-it Ralph
-18.   Princess Mononoke
-19.   Jade Armor (SE1-2)
-20.   Winx Club: The Magic is Back (SE2) — waiting SE3
-21.   Supernatural Academy (SE1)
-22.   Tinker Bell
-23.   Tinker Bell and the pirate
-24.   Tinker Bell and Neverbeast
-25.   Princess Power (still watching)
-26.   Iyanu (SE1-SE2) — waiting SE3
-27.   Ralph Breaks the Internet
-28.   Totally Spies (still watching)
-29.   Mermaid Magic (SE1) — waiting SE2
-30.   Castle in the Sky
-31.   The Legendaries (still watching)
-32.   Star Darlings
-33.   Moana (1 & 2)
-34.   Kpop Demon Hunters
-35.   Miraculous World: Tokyo, Stellar Force
-36.   Teen Titans: Trouble in Tokyo
-37.   Miraculous World: Shanghai – The Legend of Ladydragon
-38.   Miraculous World: Paris, Tales of Shadybug and Claw Noir
-39.   Tinker Bell: Pixie Hollow Games
-40.   Tinker Bell: Secret of the Wings.
-41.   Miraculous World: London or Paris
-42.   Hexed (Coming soon)
-43.   Tangled (SE1-3)
-44.   Kitti Katz (SE1) — waiting SE2
-45.   High School DxD (SE1-4)
-46.   Barbie: Fairytopia
-47.   Barbie: A Touch of Magic
-48.   The Hidden Dungeon Only I Can Enter (SE1) — waiting SE2
-49.   The Testament of Sister New Devil (SE1-2)
-50.   Sakamoto Days (SE1) — waiting SE2
-51.   Eminence in Shadow (SE1-2) — waiting SE3
-52.   The Eminence in Shadow: Lost Echoes (Upcoming Movie)
-53.   That Time I Got Reincarnated as a Slime (SE1-4) — waiting SE4 complete (SE4 EP10-24)
-54.   The Greatest Demon Reincarnated as a Typical Nobody (EP1-12) — waiting SE2
-55.   That Time I Got Reincarnated as a Slime The Movie: Scarlet Bond
-56.   That Time I Got Reincarnated as a Slime: Visions of Coleus
-57.   That Time I Got Reincarnated as a Slime The Movie: Tears of the Azure Sea
-58.   Hell's Paradise: Jigokuraku (SE1-2) — waiting SE2 EP13 or SE3
-59.   Black Clover (EP1-170) — waiting S2
-60.   Black Clover: Sword of the Wizard King
-61.   Overload (SE1-4) — waiting SE5
-62.   Overload: The Sacred Kingdom
-63.   The Water Magician (SE1) — waiting SE2
-64.   I Was Reincarnated as the 7th Prince (SE1-2) — waiting SE3
-65.   Am I Actually the Strongest? (SE1) — waiting SE2
-66.   Arifureta: From Commonplace to World's Strongest (SE1-3) — waiting SE4
-67.   The Reincarnation of the Strongest Exorcist in Another World (SE1) — waiting SE2
-68.   That Time I Got Reincarnated as a Slime OAD (EP1-5)
-69.   Skeleton knight in another world (SE1) — waiting SE2
-70.   Chillin in another world (SE1) — waiting SE2
-71.   Dandadan (SE2-EP12) — waiting SE2-EP24
-72.   Spy x Family – still watching
-73.   Shangri-La Frontier – still watching 
-74.   Record of Ragnarok – still watching 
-75.   DOTA: Dragon Blood – still watching
-76.   Demon Slayer SE1-5 – waiting SE6
-77.   Mushoku Tensei: Jobless Reincarnation – waiting SE3
-78.   The Ribbon Hero
-79.   Gintama – still watching
-80.   NIMONA
-81.   Solo Leveling – waiting SE3
-82.   One Piece – still watching
-83.   The case study of Vanitas – still watching
-84.   Re-Zero – still watching
-85.   Invincible Fight Girl – still watching
-86.   The Rising of the Shield Hero – waiting SE4
-87.   Banished from the Hero's Party – SE1-2
-88.   Claymore - EP1-26
+23.   Cleopatra in space (SE1-3) — waiting SE4
+24.   Avatar The Last Airbender (SE1-3)
+25.   The Legend of Korra (SE1-4)
+26.   The Dragon King (Arc 3) — Coming soon
+27.   Teen Titans (SE1-6)
+28.   Frozen (1 & 2) waiting 3
+29.   Miraculous Tales of Ladybug and Cat Noire (SE1-6)
+30.   Winx Club (SE1-8)
+31.   Wish
+32.   Wreck-it Ralph
+33.   Princess Mononoke
+34.   Tinker Bell
+35.   Tinker Bell and the pirate
+36.   Tinker Bell and Neverbeast
+37.   Princess Power (still watching)
+38.   Iyanu (SE1-SE2) — waiting SE3
+39.   Ralph Breaks the Internet
+40.   Totally Spies (still watching)
+41.   Mermaid Magic (SE1) — waiting SE2
+42.   Castle in the Sky
+43.   The Legendaries (still watching)
+44.   Star Darlings
+45.   Moana (1 & 2)
+46.   Kpop Demon Hunters
+47.   Miraculous World: Tokyo, Stellar Force
+48.   Teen Titans: Trouble in Tokyo
+49.   Miraculous World: Shanghai – The Legend of Ladydragon
+50.   Miraculous World: Paris, Tales of Shadybug and Claw Noir
+51.   Tinker Bell: Pixie Hollow Games
+52.   Tinker Bell: Secret of the Wings.
+53.   Miraculous World: London or Paris
+54.   Hexed (Coming soon)
+55.   Tangled (SE1-3)
+56.   High School DxD (SE1-4)
+57.   Barbie: Fairytopia
+58.   Barbie: A Touch of Magic
+59.   The Hidden Dungeon Only I Can Enter (SE1) — waiting SE2
+60.   The Testament of Sister New Devil (SE1-2)
+61.   The Eminence in Shadow: Lost Echoes (Upcoming Movie)
+62.   That Time I Got Reincarnated as a Slime (SE1-4) — waiting SE4 complete (SE4 EP10-24)
+63.   The Greatest Demon Reincarnated as a Typical Nobody (EP1-12) — waiting SE2
+64.   That Time I Got Reincarnated as a Slime The Movie: Scarlet Bond
+65.   That Time I Got Reincarnated as a Slime: Visions of Coleus
+66.   That Time I Got Reincarnated as a Slime The Movie: Tears of the Azure Sea
+67.   Hell's Paradise: Jigokuraku (SE1-2) — waiting SE2 EP13 or SE3
+68.   Black Clover: Sword of the Wizard King
+69.   Overload: The Sacred Kingdom
+70.   The Water Magician (SE1) — waiting SE2
+71.   I Was Reincarnated as the 7th Prince (SE1-2) — waiting SE3
+72.   Am I Actually the Strongest? (SE1) — waiting SE2
+73.   The Reincarnation of the Strongest Exorcist in Another World (SE1) — waiting SE2
+74.   That Time I Got Reincarnated as a Slime OAD (EP1-5)
+75.   Skeleton knight in another world (SE1) — waiting SE2
+76.   Chillin in another world (SE1) — waiting SE2
+77.   Dandadan (SE2-EP12) — waiting SE2-EP24
+78.   Spy x Family – still watching
+79.   Shangri-La Frontier – still watching 
+80.   Record of Ragnarok – still watching 
+81.   DOTA: Dragon Blood – still watching
+82.   Mushoku Tensei: Jobless Reincarnation – waiting SE3
+83.   The Ribbon Hero
+84.   Gintama – still watching
+85.   One Piece – still watching
+86.   The case study of Vanitas – still watching
+87.   Re-Zero – still watching
+88.   Invincible Fight Girl – still watching
 
 
 
