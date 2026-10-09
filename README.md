@@ -91,6 +91,7 @@
 86.   The case study of Vanitas – still watching
 87.   Re-Zero – still watching
 88.   Invincible Fight Girl – still watching
+89.   Fire Force – still watching
 
 
 
