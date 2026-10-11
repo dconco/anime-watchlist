@@ -1,0 +1,61 @@
+// Zed settings
+//
+// For information on how to configure Zed, see the Zed
+// documentation: https://zed.dev/docs/configuring-zed
+//
+// To see all of Zed's default settings without changing your
+// custom settings, run `zed: open default settings` from the
+// command palette (cmd-shift-p / ctrl-shift-p)
+{
+   "cli_default_open_behavior": "existing_window",
+   "window_title_format": "${projectName}${separator}${fileName}",
+   "prettier": {
+      "parser": "",
+      "allowed": true
+   },
+   "ensure_final_newline_on_save": false,
+   "format_on_save": "off",
+   "agent": {
+      "message_editor_min_lines": 3,
+      "favorite_models": [],
+      "model_parameters": [],
+      "auto_compact": {
+         "threshold": "90%",
+      },
+   },
+   "edit_predictions": {
+      "allow_data_collection": "no",
+      "copilot": {
+         "prediction_debounce": 0
+      },
+      "zed": {
+         "prediction_debounce": 0
+      },
+      "provider": "zed",
+   },
+   "proxy": "",
+   "cursor_animation": {
+      "enabled": false,
+   },
+   "buffer_font_weight": 500.0,
+   "ui_font_family": "IBM Plex Sans",
+   "session": {
+      "trust_all_worktrees": true,
+   },
+   "icon_theme": "Material Icon Theme",
+   "minimap": {
+      "max_width_columns": 80,
+      "show": "always",
+   },
+   "buffer_font_fallbacks": ["Consolas", "Courier New", "monospace"],
+   "buffer_font_family": "Google Sans Code",
+   "tab_size": 3,
+   "base_keymap": "VSCode",
+   "ui_font_size": 13.0,
+   "buffer_font_size": 11.0,
+   "theme": {
+      "mode": "dark",
+      "light": "One Light",
+      "dark": "One Dark Pro Glass",
+   },
+}
