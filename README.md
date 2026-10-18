@@ -97,6 +97,10 @@
 
 ——— TO WATCH ———
 
+Abomination
+Steps — November 20
+Hexed — November 26
+
 1. Fate/Zero
 2. Bleach: Thousand-Year Blood War
 3. Wistoria: Wand and Sword — Still watching
