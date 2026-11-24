@@ -93,6 +93,7 @@
 88.   Invincible Fight Girl (EP1-8)
 89.   Fire Force – still watching
 90.   Raya and the Last Dragon
+91.   DARLING in the FRANXX — (EP1-24)
 
 
 
